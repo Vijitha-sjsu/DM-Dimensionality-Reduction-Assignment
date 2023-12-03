@@ -1,1 +1,1 @@
-# DM-Dimentionality-Reduction-Assignment
+# DM-Dimensionality-Reduction-Assignment
