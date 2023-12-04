@@ -5,3 +5,6 @@ Colab link - https://colab.research.google.com/drive/1FtBzmt_uCxdF5lIkeKxUXy1eKg
 
 ## Part 2 - UMAP followed by clustering + classification
 Colab link - https://colab.research.google.com/drive/1uuVZV1KnMIdj7rQlxOIXtU7FZjehznh_?usp=sharing
+
+## Part 3 - Dimensionality Reduction using Databricks
+Uploaded to this repo
