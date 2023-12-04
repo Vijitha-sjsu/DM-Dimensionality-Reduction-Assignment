@@ -7,4 +7,4 @@ Colab link - https://colab.research.google.com/drive/1FtBzmt_uCxdF5lIkeKxUXy1eKg
 Colab link - https://colab.research.google.com/drive/1uuVZV1KnMIdj7rQlxOIXtU7FZjehznh_?usp=sharing
 
 ## Part 3 - Dimensionality Reduction using Databricks
-Uploaded to this repo
+Uploaded to this repo. Name of notebook is - databricks_dimesion_reduction.ipynb
